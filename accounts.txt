@@ -1,0 +1,15 @@
+Checking Account: #177352438 | IBAN:AIBKIE180615791 | funds:€409410|end
+Savings Account: #177352438 | IBAN:AIBKIE192326929 | funds:€381902|end
+Savings Account: #729359476 | IBAN:AIBKIE123491254 | funds:€74972|end
+
+Checking Account: #121853284 | IBAN:AIBKIE163875322 | funds:€715634|end
+
+Checking Account: #177825483 | IBAN:AIBKIE101219204 | funds:€43847|end
+
+Savings Account: #177825483 | IBAN:AIBKIE168360734 | funds:€40527|end
+
+Checking Account: #729359476 | IBAN:AIBKIE155503397 | funds:€44440|end
+Savings Account: #121853284 | IBAN:AIBKIE178764806 | funds:€12000|end
+
+Checking Account: #158370576 | IBAN:AIBKIE146655594 | funds:€4532|end
+Savings Account: #158370576 | IBAN:AIBKIE144554600 | funds:€39988|end
